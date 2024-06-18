@@ -1,0 +1,17 @@
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\bin\Debug\net8.0\BookingDentist.Business.deps.json
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\bin\Debug\net8.0\BookingDentist.Business.runtimeconfig.json
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\bin\Debug\net8.0\BookingDentist.Business.dll
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\bin\Debug\net8.0\BookingDentist.Business.pdb
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\bin\Debug\net8.0\BookingDentist.DataAccess.dll
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\bin\Debug\net8.0\BookingDentist.DataAccess.pdb
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.csproj.AssemblyReference.cache
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.AssemblyInfoInputs.cache
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.AssemblyInfo.cs
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.csproj.CoreCompileInputs.cache
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.csproj.CopyComplete
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.dll
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\refint\BookingDentist.Business.dll
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.pdb
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\BookingDentist.Business.genruntimeconfig.cache
+D:\SEMESTER7\SWD_Minh\BookingDentist\BookingDentist.Business\obj\Debug\net8.0\ref\BookingDentist.Business.dll

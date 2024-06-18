@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookingDentist.API.props" />
+</Project>
